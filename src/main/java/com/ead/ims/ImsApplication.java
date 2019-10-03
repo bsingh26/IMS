@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
+/**
+* This is the main entry point for Spring Boot Servert.
+*/
 @SpringBootApplication
 public class ImsApplication extends SpringBootServletInitializer {
 	@Override
